@@ -1,0 +1,10 @@
+C:\Users\Админ\source\repos\VirtualConsoleCalc\bin\Debug\VirtualConsoleCalc.exe.config
+C:\Users\Админ\source\repos\VirtualConsoleCalc\bin\Debug\VirtualConsoleCalc.exe
+C:\Users\Админ\source\repos\VirtualConsoleCalc\bin\Debug\VirtualConsoleCalc.pdb
+C:\Users\Админ\source\repos\VirtualConsoleCalc\obj\Debug\VirtualConsoleCalc.Properties.Resources.resources
+C:\Users\Админ\source\repos\VirtualConsoleCalc\obj\Debug\VirtualConsoleCalc.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\VirtualConsoleCalc\obj\Debug\VirtualConsoleCalc.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\VirtualConsoleCalc\obj\Debug\VirtualConsoleCalc.exe
+C:\Users\Админ\source\repos\VirtualConsoleCalc\obj\Debug\VirtualConsoleCalc.pdb
+C:\Users\Админ\source\repos\VirtualConsoleCalc\obj\Debug\VirtualConsoleCalc.form_Main.resources
+C:\Users\Админ\source\repos\VirtualConsoleCalc\obj\Debug\VirtualConsoleCalc.csproj.AssemblyReference.cache
